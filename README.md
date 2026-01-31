@@ -57,10 +57,19 @@ cd Resume-RAG-GROQ
 # Install dependencies
 pip install -r requirements.txt
 
+### 3.**main files**
+I have given Two methods of approach to achieve this PDF_RAG
+---> 1. with Gemini
+        for this check app.py
+---->2. with GROQ
+        for this check app_groq.py
+
+### 4. run the code 
+  ---> python app_groq.py
 ------------------------------------------------------------------
 
 ## 👨‍💻 Author
 **Murali Koppula** *Full Stack Python Developer | AI Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-koppula06a1ba295)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murali457)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muralikoppula738385 )
