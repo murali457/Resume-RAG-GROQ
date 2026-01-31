@@ -1,0 +1,21 @@
+# --- Web Framework ---
+flask==3.0.3
+
+# --- Security ---
+pip-system-certs
+certifi
+
+# --- Document Processing ---
+pypdf
+
+# --- Groq & LangChain Ecosystem (No pinned versions to avoid conflict) ---
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# --- Vector Store & Embeddings ---
+faiss-cpu
+sentence-transformers
+huggingface-hub

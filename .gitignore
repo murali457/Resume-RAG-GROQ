@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+uploads/
+vector_store/
+*.pdf
+!data/Murali_Python_Fullstack_Dev.pdf
